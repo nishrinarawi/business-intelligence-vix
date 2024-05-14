@@ -4,7 +4,7 @@ E-mail: nishrinarawi@gmail.com
 LinkedIn: www.linkedin.com/in/nishrina-rawi  
 
 ## Objective
-As a Big Data Analytics Intern at Kimia Farma, my tasks include a series of challenges that require a deep understanding of data and analytical skills. I have been asked to evaluate the business performance of Kimia Farma from 2020 to 2023. 
+ 
 
 ## Tools
 The analysis process begins with creating a database using Google BigQuery and then proceeds with creating a performance analytics dashboard using Looker Studio.
