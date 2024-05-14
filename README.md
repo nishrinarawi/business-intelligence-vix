@@ -1,7 +1,7 @@
 # Virtual Internship Program: Business Intelligence-Bank Muamalat
-Name: Nishrina Rawi
-E-mail: nishrinarawi@gmail.com
-LinkedIn: www.linkedin.com/in/nishrina-rawi  
+Name: Nishrina Rawi  
+E-mail: nishrinarawi@gmail.com  
+LinkedIn: www.linkedin.com/in/nishrina-rawi    
 
 ## Objective
  
