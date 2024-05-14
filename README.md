@@ -37,7 +37,7 @@ ALTER TABLE digitaluser.products ADD FOREIGN KEY (Category) REFERENCES digitalus
 - Relationship of products-orders table: one-to-many
 - Relationship of product_category-products table: one-to-many
 
-![erd]()
+![erd](https://github.com/nishrinarawi/business-intelligence-vix/blob/a89b3ad8c8ff71fd954e6c91b763bc2bbdf67e0e/assets/ERD.png)
 
 4. Create Master Table  
 To create a new table whose columns come from different tables, we need to join the table with the primary key and foreign key from that table  
@@ -63,7 +63,7 @@ ORDER BY 1 ASC;
 ## Create Sales Dashboard
 Here is the performance analytics dashboard that I have created. 
 
-![dashboard]()  
+![dashboard](https://github.com/nishrinarawi/business-intelligence-vix/blob/a89b3ad8c8ff71fd954e6c91b763bc2bbdf67e0e/assets/dashboard.png)  
 
 Click [here](https://lookerstudio.google.com/reporting/104eca3c-0beb-4d91-bac9-f5c031db52c5) to see Sales Dashboard
 
